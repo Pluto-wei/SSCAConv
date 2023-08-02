@@ -49,7 +49,7 @@ Please cite the related paper:
   | WV3 | [[download link](https://pan.baidu.com/s/1rFf5KdoNp4LakwCNBn-LRQ)] | p6hx     |
   | GF2 | [[download link](https://pan.baidu.com/s/1fhCpNlnLEafkmCFwhc9_zw)] | vbj6     |
 
-* ```HISR task``` Harvard datasets can be downloaded [here](https://openremotesensing.net/hyperspectral-pansharpening-challenge/). Also, we provided the prepared data used in this paper.
+* ```HISR task``` Harvard datasets are used for HISR task. Also, we provided the prepared data used in this paper.
 
   | Dataset            | Link                                                         | Password |
   | ------------------ | ------------------------------------------------------------ | -------- |
