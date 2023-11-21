@@ -78,11 +78,13 @@ Please cite the related paper:
 ## Method
 
 * Motivation
-* Proposed module:
+  
+* Proposed module
 
 * Overall Architecture
 
-![Overall](Figs/overall.png)
+![image](https://github.com/Pluto-wei/SSCAConv/assets/73097943/8fd33235-1b1a-4084-8ec2-0501e69adea8)
+
 
 * Visual Results
 
@@ -90,7 +92,18 @@ Please cite the related paper:
 
 * Please see the paper for other details.
 
+## Slupplementary experiment resluts
+Diffusion model, as a newly developed generative technique, has really drawn much attention. For a more comprehensive and rigorous comparison, we have implemented a newly published diffusion model, i.e., PanDiff [R1], according to your suggestion. Specifically, we compare our SSCANet and PanDiff model on the reduced-resolution WV3 dataset, and the total timesteps T is set to 2000 for PanDiff. Table S1 shows the corresponding quantitative results, in which our model achieves the favorable performance with fewer network parameters and inference time 
+compared to PanDiff. Besides, the qualitative visual results are presented in Fig. S1. Due to the 5-page limit 
+for this letter, we have provided supplementary experiment results in our online repository.
 
+![image](https://github.com/Pluto-wei/SSCAConv/assets/73097943/cdcb157a-41bc-45fa-8cd1-eb16af80ffd5)
+
+![image](https://github.com/Pluto-wei/SSCAConv/assets/73097943/dc4fe589-28bf-4768-89ad-05854d9efb02)
+
+[R1] Q. Meng, W. Shi, S. Li and L. Zhang, "PanDiff: A Novel Pansharpening Method Based on Denoising 
+Diffusion Probabilistic Model," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-17, 
+2023, Art no. 5611317, doi: 10.1109/TGRS.2023.3279864.
 
 
 ## Contact
