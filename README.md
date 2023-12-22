@@ -5,7 +5,7 @@ Source Code and Datasets for "SSCAConv: Self-guided Spatial-Channel Adaptive Con
 
 
 * **Homepage:** [Liang-Jian Deng](https://liangjiandeng.github.io/), [Xiaoya Lu](https://ursulalujun.github.io/about.html) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
-* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [[paper]]((https://ieeexplore.ieee.org/document/10367804)) [DOI: 10.1109/LGRS.2023.3344944]
+* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [paper](https://ieeexplore.ieee.org/document/10367804) [DOI: 10.1109/LGRS.2023.3344944]
 
 
 
