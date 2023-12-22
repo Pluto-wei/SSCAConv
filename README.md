@@ -5,7 +5,7 @@ Source Code and Datasets for "SSCAConv: Self-guided Spatial-Channel Adaptive Con
 
 
 * **Homepage:** [Liang-Jian Deng](https://liangjiandeng.github.io/), [Xiaoya Lu](https://ursulalujun.github.io/about.html) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
-* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [paper](https://ieeexplore.ieee.org/document/10367804) [DOI: 10.1109/LGRS.2023.3344944]
+* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [[paper]](https://ieeexplore.ieee.org/document/10367804) 
 
 
 
@@ -14,11 +14,15 @@ Source Code and Datasets for "SSCAConv: Self-guided Spatial-Channel Adaptive Con
 Please cite the related paper:
 
 ```bibtex
-@ARTICLE{lu2023,
-  author={Xiaoya Lu*, Yu-Wei Zhuo*, Hongming Chen, Liang-Jian Deng and Junming Hou},
+@ARTICLE{2023lu,
+  author={Lu, Xiaoya and Zhuo, Yu-Wei and Chen, Hongming and Deng, Liang-Jian and Hou, Junming},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion}
-}
+  title={SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LGRS.2023.3344944}}
 ```
 
 
@@ -104,18 +108,6 @@ for this letter, we have provided supplementary experiment results in our online
 [R1] Q. Meng, W. Shi, S. Li and L. Zhang, "PanDiff: A Novel Pansharpening Method Based on Denoising 
 Diffusion Probabilistic Model," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-17, 
 2023, Art no. 5611317, doi: 10.1109/TGRS.2023.3279864.
-
-
-## Cite
-@ARTICLE{10367804,
-  author={Lu, Xiaoya and Zhuo, Yu-Wei and Chen, Hongming and Deng, Liang-Jian and Hou, Junming},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/LGRS.2023.3344944}}
 
 
 ## Contact
