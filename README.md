@@ -1,11 +1,11 @@
 # SSCAConv
-Source Code and Datasets for "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion"
+Source Code and Datasets for "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion" 
 
 ## Source Codes and Datasets for Hyperspectral Pansharpening in Deep Learning
 
 
 * **Homepage:** [Liang-Jian Deng](https://liangjiandeng.github.io/), [Xiaoya Lu](https://ursulalujun.github.io/about.html) and [Yu-Wei Zhuo](https://pluto-wei.github.io/)
-* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [[paper]](https://pluto-wei.github.io/papers/2022/.pdf)
+* Code for the paper: "SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion, IEEE GRSL, 2023" [[paper]]((https://ieeexplore.ieee.org/document/10367804)) [DOI: 10.1109/LGRS.2023.3344944]
 
 
 
@@ -106,13 +106,21 @@ Diffusion Probabilistic Model," in IEEE Transactions on Geoscience and Remote Se
 2023, Art no. 5611317, doi: 10.1109/TGRS.2023.3279864.
 
 
+## Cite
+@ARTICLE{10367804,
+  author={Lu, Xiaoya and Zhuo, Yu-Wei and Chen, Hongming and Deng, Liang-Jian and Hou, Junming},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={SSCAConv: Self-guided Spatial-Channel Adaptive Convolution for Image Fusion}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LGRS.2023.3344944}}
+
+
 ## Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact Yuuweii@yeah.net.
-
-
-
-
 
 
 
